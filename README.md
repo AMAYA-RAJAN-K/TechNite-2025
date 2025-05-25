@@ -1,4 +1,4 @@
-# 🧾 Zomato Interactive Analytics Dashboard
+# 🧾 Global Food Trends – Powered by Zomato
 
 ### 📌 Objective
 
